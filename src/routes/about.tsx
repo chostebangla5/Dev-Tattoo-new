@@ -2,7 +2,7 @@ import { createFileRoute } from "@tanstack/react-router";
 import { ShieldCheck, Award, Syringe, MessageSquare, MessageCircle } from "lucide-react";
 import { Reveal } from "@/components/Reveal";
 import { SITE } from "@/lib/site";
-import artistAsset from "@/assets/artist.asset.json";
+import artistAsset from "@/assets/artist-dev.jpg";
 
 export const Route = createFileRoute("/about")({
   component: AboutPage,
