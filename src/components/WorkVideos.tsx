@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 import { ChevronLeft, ChevronRight, Play } from "lucide-react";
 import { Reveal } from "@/components/Reveal";
-import reel1 from "@/assets/reel-1.mp4.asset.json";
-import reel2 from "@/assets/reel-2.mp4.asset.json";
-import reel3 from "@/assets/reel-3.mp4.asset.json";
-import reel4 from "@/assets/reel-4.mp4.asset.json";
-import reel6 from "@/assets/reel-6.mp4.asset.json";
+import reel1 from "@/assets/reel-1.mp4.asset.mp4";
+import reel2 from "@/assets/reel-2.mp4.asset.mp4";
+import reel3 from "@/assets/reel-3.mp4.asset.mp4";
+import reel4 from "@/assets/reel-4.mp4.asset.mp4";
+import reel6 from "@/assets/reel-6.mp4.asset.mp4";
 
 const VIDEOS = [reel1.url, reel2.url, reel3.url, reel4.url, reel6.url];
 
