@@ -1,0 +1,13 @@
+# Dev Tattoo & Art
+
+> Premium custom tattoo and piercing studio in Kolkata (New Town, Rajarhat) led by artist Debasis Adak. 5.0★ rating with 1560+ Google reviews.
+
+Dev Tattoo & Art specializes in realism, anime, portrait, Japanese, mandala, cover-up, sleeve and fine-line tattoos, plus professional ear, nose and septum piercing. All work uses sterile single-use equipment and comes with a personal aftercare plan. Bookings happen over WhatsApp.
+
+## Pages
+
+- [Home](/): Studio overview, hero portfolio and booking.
+- [Portfolio](/portfolio): Selected tattoo work filtered by style.
+- [Services](/services): Full tattoo and piercing services with starting prices.
+- [About](/about): Debasis Adak's story and the studio's philosophy.
+- [Contact](/contact): Studio address, hours and WhatsApp booking form.
