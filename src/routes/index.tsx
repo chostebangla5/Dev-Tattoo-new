@@ -18,7 +18,7 @@ import { PortfolioGallery } from "@/components/PortfolioGallery";
 import { Reveal } from "@/components/Reveal";
 import { ArtistsSection } from "@/components/ArtistsSection";
 import { WorkVideos } from "@/components/WorkVideos";
-import artistAsset from "@/artist-dev.jpg";
+import artistAsset from "@/artist-dev.png";
 
 export const Route = createFileRoute("/")({
   component: Index,
