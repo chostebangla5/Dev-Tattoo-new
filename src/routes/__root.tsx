@@ -14,7 +14,7 @@ import { reportLovableError } from "../lib/lovable-error-reporting";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { FloatingButtons } from "@/components/FloatingButtons";
-import logoAsset from "@/assets/logo.asset.json";
+import logoAsset from "@/assets/logo.asset.png";
 
 const SITE_URL = "https://skin-canvas-artisans.lovable.app";
 const LOGO_URL = `${SITE_URL}${logoAsset.url}`;
