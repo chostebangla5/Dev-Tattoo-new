@@ -2,8 +2,7 @@ import { Instagram, MessageCircle } from "lucide-react";
 import { SITE } from "@/lib/site";
 import { Reveal } from "@/components/Reveal";
 import artistLead from "@/assets/artist-dev.png";
-import artistRohan from "@/assets/artist-arjun.png";
-import artistPriya from "@/assets/artist-priya.png";
+import artistRohan from "@/assets/artist-rohan.png";
 import artistArjun from "@/assets/artist-arjun.png";
 
 type Artist = {
